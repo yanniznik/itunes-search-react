@@ -5,10 +5,10 @@ Simple react.js and react-dom powered instaneous music search returned by Ajax q
 
 ## Folder Structure
 
-After creation, your project should look like this:
+After cloning, your project should look like this:
 
 ```
-my-app/
+itunes-search-react/
   README.md
   node_modules/
   package.json
@@ -21,7 +21,7 @@ my-app/
     App.test.js
     index.css
     index.js
-    logo.svg
+    ...
 ```
 
 For the project to build, **these files must exist with exact filenames**:
