@@ -1,6 +1,8 @@
 # iTunes music search - React
 Simple react.js and react-dom powered instaneous music search returned by Ajax queries to iTunes API.
 
+[Check it out on Heroku](https://music-shop.herokuapp.com/)
+
 ## Folder Structure
 
 After creation, your project should look like this:
